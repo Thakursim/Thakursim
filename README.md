@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 
 <br />
 
@@ -29,7 +29,7 @@
 
 ## Experience:
 # 🏢  YesAvail,  Remote - Python Intern
-# 8th Sep 2020 - PRESENT
+8th Sep 2020 - PRESENT
 -  Developed a desktop application using pypercard.
 -  Worked on product scraping from websites like BigBasket, FreshToHome, BeingHuman etc.
 -  Worked on development of Django application, added multiple CRUD operations with Postgres database and integration of Twilio in Django for sending SMS on demand. 
