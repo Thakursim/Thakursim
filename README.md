@@ -36,7 +36,21 @@
 -  Worked on To-Do app using Flask/Django i.e. CRUD operations with Sqlite database.
 -  Worked on HTML designing using Bootstrap.
  
-         
+## EDUCATION
+- Shri Shikshayatan College, Kolkata -B.com(H)
+2016 - 2019
+60%
+- Balika Siksha Sadan, Kolkata - Higher Secondary
+2014 -2016
+78%
+- Gyan Bharati Vidyalaya, Kolkata - Madhyamik
+2000-2014
+78%         
+
+<img align="left" alt="Thakursim's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Thakursim&show_icons=true&hide_border=true" />
+
+
+
 
 
 
