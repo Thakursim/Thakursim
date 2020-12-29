@@ -49,7 +49,7 @@
 
 <img align="left" alt="Thakursim's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Thakursim&show_icons=true&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thakursim)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
