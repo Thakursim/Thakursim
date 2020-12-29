@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as Python Intern. 
 - 🌱 I’m currently learning 
-- 📫 How to reach me: simran2010thakur@gmail.com, 8240087659
+- 📫 How to reach me: simran2010thakur@gmail.com
 
 ### Connect with me:
 
@@ -36,7 +36,7 @@
 -  Worked on To-Do app using Flask/Django i.e. CRUD operations with Sqlite database.
 -  Worked on HTML designing using Bootstrap.
  
-## EDUCATION
+<!-- ## EDUCATION
 - Shri Shikshayatan College, Kolkata -B.com(H)
 2016 - 2019
 60%
@@ -45,7 +45,7 @@
 78%
 - Gyan Bharati Vidyalaya, Kolkata - Madhyamik
 2000-2014
-78%         
+78%          -->
 
 <img align="left" alt="Thakursim's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Thakursim&show_icons=true&hide_border=true" />
 
