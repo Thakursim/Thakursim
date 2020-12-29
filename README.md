@@ -8,11 +8,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/simran-thakur-b260031b2/"/>]
 
 <br />
 
-# Objective:
+# OBJECTIVE
 Secure a responsible career opportunity to fully utilize my training and skills, while making a significant contribution to the success of the company.
 
 
