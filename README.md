@@ -2,8 +2,8 @@
  
 ## I am a Python Intern. 
 
-- 🔭 I’m currently working as Python Intern. 
-- 🌱 I’m currently learning 
+- 🔭 I’m currently working as Python Developer. 
+- 🌱 I’m learning many new things.
 - 📫 How to reach me: simran2010thakur@gmail.com
 
 ### Connect with me:
