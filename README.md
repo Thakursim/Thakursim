@@ -1,6 +1,6 @@
 ### Hi there, I am Simran Thakur (Thakursim)👋
  
-## I am a Python Intern. 
+## I am a Python Developer. 
 
 - 🔭 I’m currently working as Python Developer. 
 - 🌱 I’m learning many new things.
