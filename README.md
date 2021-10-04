@@ -31,15 +31,35 @@ Secure a responsible career opportunity to fully utilize my training and skills,
         10. Web Scraping
         11. Twilio
         12. Bootstrap
+        13. Kubernetes
+        14. Node.js
+        15. Docker
+        16. AWS Cognito
+        17. AWS Lambda
+        18. AWS RDS
+        19. AWS S3
+        20. Microsoft Azure
+        21. Amazon EC2
+        22. Locust
+        23. REST API
+        24. DjangoRestFramework
+        25. Mock Test cases
+        26. Django Middleware
+        27. Django Adapter
+        28. Node.js Middleware
+        29. OpenAPI
+        30. PgBouncer
+        
 
 ## Experience:
-# 🏢  YesAvail,  Remote - Python Intern
+# 🏢  YesAvail,  Remote - Python Developer
 8th Sep 2020 - PRESENT
 -  Developed a desktop application using pypercard.
 -  Worked on product scraping from websites like BigBasket, FreshToHome, BeingHuman etc.
 -  Worked on development of Django application, added multiple CRUD operations with Postgres database and integration of Twilio in Django for sending SMS on demand. 
 -  Worked on To-Do app using Flask/Django i.e. CRUD operations with Sqlite database.
 -  Worked on HTML designing using Bootstrap.
+-  Worked on projects like Carper, Mearca, Digital Distribution.
  
 <!-- ## EDUCATION
 - Shri Shikshayatan College, Kolkata -B.com(H)
