@@ -52,7 +52,7 @@ Secure a responsible career opportunity to fully utilize my training and skills,
         
 
 ## Experience:
-# 🏢  YesAvail,  Remote - Python Developer
+# 🏢  Contractor,  Remote - Python Developer
 8th Sep 2020 - PRESENT
 -  Developed a desktop application using pypercard.
 -  Worked on product scraping from websites like BigBasket, FreshToHome, BeingHuman etc.
