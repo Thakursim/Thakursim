@@ -49,6 +49,8 @@ Secure a responsible career opportunity to fully utilize my training and skills,
         28. Node.js Middleware
         29. OpenAPI
         30. PgBouncer
+        31. Snowflakes
+        32. Ascend.io
         
 
 ## Experience:
