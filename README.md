@@ -1,8 +1,8 @@
 ### Hi there, I am Simran Thakur (Thakursim)👋
  
-## I am a Python Developer. 
+## I am a Backend Engineer. 
 
-- 🔭 I’m currently working as Python Developer. 
+- 🔭 I’m currently working as a Backend Developer. 
 - 🌱 I’m learning many new things.
 - 📫 How to reach me: simran2010thakur@gmail.com
 
@@ -14,7 +14,7 @@
 <br />
 
 # OBJECTIVE
-Secure a responsible career opportunity to fully utilize my training and skills, while making a significant contribution to the success of the company.
+Secure a responsible career opportunity to fully utilize my training and skills, while significantly contributing to the company's success.
 
 
 ### Skills:
@@ -51,17 +51,22 @@ Secure a responsible career opportunity to fully utilize my training and skills,
         30. PgBouncer
         31. Snowflakes
         32. Ascend.io
+        33. Node.js
+        34. Serverless
+        35. Mailgun
+        36. DynamoDB
+        37. Stripe
         
 
 ## Experience:
 # 🏢  Contractor,  Remote - Python Developer
 8th Sep 2020 - PRESENT
--  Developed a desktop application using pypercard.
--  Worked on product scraping from websites like BigBasket, FreshToHome, BeingHuman etc.
--  Worked on development of Django application, added multiple CRUD operations with Postgres database and integration of Twilio in Django for sending SMS on demand. 
+-  Developed a desktop application using pyper cards.
+-  Worked on product scraping from websites like BigBasket, FreshToHome, BeingHuman, etc.
+-  Worked on developing the Django application, adding multiple CRUD operations with the Postgres database, and integrating Twilio in Django for sending SMS on demand. 
 -  Worked on To-Do app using Flask/Django i.e. CRUD operations with Sqlite database.
 -  Worked on HTML designing using Bootstrap.
--  Worked on projects like Carper, Mearca, Digital Distribution.
+-  Worked on projects like Carper, Mearca, and Digital Distribution.
  
 <!-- ## EDUCATION
 - Shri Shikshayatan College, Kolkata -B.com(H)
